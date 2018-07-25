@@ -1,4 +1,4 @@
-# Repository REadme
+# Repository Readme
 This is the README file for my first super awesome project!
 
 THis project has the following functionality:
